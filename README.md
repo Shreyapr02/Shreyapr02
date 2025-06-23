@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Prabhakar</h1>
 <h3 align="center">Bridging biology and technology — a creative web designer and bioinformatics explorer from India.</h3>
+<img align="right" alt="Coding" width="200" src="https://imgs.search.brave.com/RzsaSC5QFSNBcnLJ8k2M2qjeBphAQQK0_QIL3_2GmhY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS12ZWN0b3Iv/Y3V0ZS1naXJsLWhh/Y2tlci1vcGVyYXRp/bmctbGFwdG9wLWNh/cnRvb24tdmVjdG9y/LWljb24taWxsdXN0/cmF0aW9uLXBlb3Bs/ZS10ZWNobm9sb2d5/LWlzb2xhdGVkLWZs/YXRfMTM4Njc2LTk0/ODcuanBnP3NlbXQ9/YWlzX2h5YnJpZCZ3/PTc0MA">
 
 - 📫 How to reach me **shreyaprabhakar2002@gmail.com**
 
